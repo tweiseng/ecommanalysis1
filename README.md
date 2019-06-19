@@ -6,4 +6,4 @@ The dataset contains records of transactions sourced from an ecommerce website. 
 
 There is no specific problem statement, hence my attempts with this dataset are to search the data for patterns that could potentially provide some insight, ie which customers are potential repeat customers, what sorts of hotselling products the seller could take advantage of and others.
 
-Please note that this is a work in progress, hence there might be changes still ongoing from time to time.
+Please note that this is a work in progress, hence there might be changes still ongoing from time to time, and that it is still unfinished work.
